@@ -1,7 +1,7 @@
 
 🔍 Lie Detector using Arduino
 
-📋 Overview
+📋 *Overview* :
 The Lie Detector using Arduino is a prototype that focuses on detecting deceptive responses based on electrodermal activity (EDA). The system uses a skin conductance sensor to measure changes in skin resistance, which can indicate stress or nervousness often associated with lying. The data is analyzed by an Arduino microcontroller to detect variations in the subject's response and determine whether they are being truthful or deceptive.
 
 
